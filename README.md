@@ -1,4 +1,4 @@
-# flutter_application_1
+# stack_linear_gradient_flutter
 
 A new Flutter project.
 
